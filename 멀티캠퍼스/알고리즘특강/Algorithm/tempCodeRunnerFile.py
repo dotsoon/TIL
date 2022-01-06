@@ -1,0 +1,1 @@
+.left.data, node1.left.right.data, node1.right.left.data)
